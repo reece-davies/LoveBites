@@ -6,3 +6,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Recipe management and shopping list creation (Next.JS app)
 
 Deployed via Vercel to [love-bites.vercel.app] (https://love-bites.vercel.app)
+
+## Auth
+Basic authorisation created with middleware (/src/middleware.js) + environment variables
+Username: Chomp
+Password: Chomp

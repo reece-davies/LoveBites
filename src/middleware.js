@@ -21,7 +21,7 @@ export function middleware(req) {
   }
 
   // If auth fails or missing
-  return new NextResponse("Authentication required", {
+  return new NextResponse("YOU SHALL NOT PASS!.. without the password", {
     status: 401,
     headers: { "WWW-Authenticate": 'Basic realm="Secure Area"' },
   });
