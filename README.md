@@ -9,5 +9,9 @@ Deployed via Vercel to [love-bites.vercel.app] (https://love-bites.vercel.app)
 
 ## Auth
 Basic authorisation created with middleware (/src/middleware.js) + environment variables
+
+
+
 Username: Chomp
+
 Password: Chomp
